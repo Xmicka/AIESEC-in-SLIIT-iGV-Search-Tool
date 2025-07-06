@@ -1,5 +1,5 @@
 
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { ChevronLeft, ChevronRight, Play, X } from 'lucide-react';
 import ScrollSection from '../components/ScrollSection';
 

@@ -1,5 +1,5 @@
 
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { MessageCircle, Mail, Phone, MapPin, Send } from 'lucide-react';
 import ScrollSection from '../components/ScrollSection';
 
